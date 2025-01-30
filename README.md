@@ -1,1 +1,1 @@
-Why remain idle, since I can keep leveling up?
+I cannot remain idle because I can keep leveling up.
