@@ -15,5 +15,4 @@ I've been leveling up this whole time...
 
 ## My Workstation
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-0e414f?style=for-the-badge&logo=Hyprland&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
